@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="icon">#000000</color>
+    <color name="pdfBack">#fff</color>
+
+    <color name="colorPrimary">#0277BD</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#81D4FA</color>
+</resources>

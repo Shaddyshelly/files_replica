@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Files By Google Replica</string>
+    <string name="category">Categories</string>
+    <string name="download">Downloads</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="audios">Audios</string>
+    <string name="documents">Documents</string>
+    <string name="storage_devices">Storage Devices</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="fab">FAB</string>
+    <string name="nothing_found_in_this_folder">Nothing Found in this folder..!!</string>
+    <string name="list_image_view">list image view</string>
+    <string name="more">more</string>
+    <string name="image">Image</string>
+    <string name="image_icon">Image_icon</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="open_with">Open With</string>
+    <string name="file_info">File Info</string>
+    <string name="delete_permanently">Delete Permanently</string>
+    <string name="yes">Yes!!</string>
+    <string name="no">No..</string>
+    <string name="pdf">PDF</string>
+    <string name="list_grid">List Grid</string>
+    <string name="sort_by">Sort By</string>
+    <string name="by_name">By Name</string>
+    <string name="by_date">By Date</string>
+    <string name="by_size">By Size</string>
+    <string name="open_camera">Open camera</string>
+    <string name="name_a_z">Name A → Z</string>
+    <string name="name_z_a">Name Z → A</string>
+    <string name="smallest_first">Smallest first</string>
+    <string name="largest_first">Largest first</string>
+    <string name="oldest_first">Oldest first</string>
+    <string name="newest_first">Newest first</string>
+    <string name="error_occurred">Error Occurred!!</string>
+    <string name="hide_private_files">Hide Private Files</string>
+    <string name="show_private_files">Show Private Files</string>
+
+</resources>

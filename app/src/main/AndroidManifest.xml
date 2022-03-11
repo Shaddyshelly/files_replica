@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.anjali.practice.filesbygooglereplica" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission
+        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.anjali.practice.filesbygooglereplica.activities.HomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.ShowAudioActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.ShowImageActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.MediaImageActivity"
+            android:label="Images"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.HomeActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.InfoActivity"
+            android:label="File Info"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.ShowImageActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.MediaAudioActivity"
+            android:label="Audios"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.HomeActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.MediaVideoActivity"
+            android:label="Videos"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.HomeActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.ShowVideoActivity"
+            android:label="Show Video"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.MediaVideoActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.MediaDownloadActivity"
+            android:label="Downloads"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.HomeActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.MediaDocumentsActivity"
+            android:label="Documents"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.HomeActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.ShowPdfActivity"
+            android:label="Show PDF"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.MediaDocumentsActivity" />
+        <activity
+            android:name="com.anjali.practice.filesbygooglereplica.activities.InternalStorageActivity"
+            android:label="Internal Storage"
+            android:launchMode="singleTop"
+            android:parentActivityName="com.anjali.practice.filesbygooglereplica.activities.HomeActivity" />
+    </application>
+
+</manifest>

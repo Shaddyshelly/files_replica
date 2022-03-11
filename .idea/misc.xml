@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_player_control_view.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_player_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_styled_player_control_ffwd_button.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_styled_player_control_rewind_button.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_styled_player_control_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_styled_player_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_styled_settings_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_styled_settings_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_styled_sub_settings_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/.gradle/caches/transforms-2/files-2.1/8b078e3d8032126b6886e27b74fe4c66/exoplayer-ui-2.14.1/res/layout/exo_track_selection_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/drawable/show_image_base.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/drawable/show_image_top.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_audio_info.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_image_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_internal_storage.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_media.xml" value="0.22" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_show_audio.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_show_image.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_show_pdf.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/activity_temp.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/custom_audio_player.xml" value="0.18" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/custom_audio_player_view.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/fragment_show_image.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/fragment_temp.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/grid_internal.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/grid_media.xml" value="0.16" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/list_media.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/list_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/pdf_card.xml" value="0.22" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/layout/show_image_card.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/menu/internal_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/menu/media_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/menu/popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/Users/Amrit/AndroidStudioProjects/FilesByGoogleReplica/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
